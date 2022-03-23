@@ -1,1 +1,3 @@
-# hello_world_public
+# Hello World Public
+
+This is the example public repository
